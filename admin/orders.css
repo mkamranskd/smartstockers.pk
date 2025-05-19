@@ -1,0 +1,68 @@
+#awb-content {
+    font-family: Arial, sans-serif;
+    letter-spacing: 0.5px;
+    /* Add slight letter spacing to prevent overlapping */
+    line-height: 1.5;
+    /* Adjust line height for better spacing */
+}
+/* Styling for the circle badge */
+ .circle-badge {
+    display: inline-block;
+    width: 25px;
+    /* Set the width and height to make it circular */
+    height: 25px;
+    border-radius: 50%;
+    /* Make it round */
+    text-align: center;
+    /* Center the text inside the circle */
+    line-height: 25px;
+    /* Vertically align the text */
+    color: white;
+    /* Text color */
+    font-size: 12px;
+    font-weight: bold;
+    margin-right: 10px;
+    /* Adjust the font size to fit the circle */
+}
+
+/* Optionally, you can adjust the size or color of the circle badge if necessary */
+
+.tab-nav {
+    background-color: #e9ecef;
+
+    border: 0;
+
+    padding: 10px 20px;
+
+    margin-right: 5px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+
+.tab-nav:hover {
+    background-color: white;
+
+}
+
+
+.tab-nav.active {
+    background-color: #f8f9fa;
+
+
+
+    border-color: #007bff;
+
+}
+
+/* Responsive layout: Buttons stack on small screens */
+@media (max-width: 576px) {
+    .d-flex {
+        flex-direction: column;
+    }
+}

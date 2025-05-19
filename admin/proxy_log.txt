@@ -1,0 +1,226 @@
+========== 2025-05-16 22:19:13 ==========
+🔍 Trying proxy: 47.251.122.81:8888
+❌ Proxy failed: 47.251.122.81:8888 | Error: Recv failure: Connection was reset
+
+🔍 Trying proxy: 113.160.132.195:8080
+✅ Proxy IP Response: 113.160.132.195
+📄 Fiverr Response Code: 0
+❌ Fiverr rejected or invalid response
+
+🔍 Trying proxy: 66.201.7.151:3128
+❌ Proxy failed: 66.201.7.151:3128 | Error: SSL certificate problem: self-signed certificate in certificate chain
+
+🔍 Trying proxy: 18.132.36.51:3128
+❌ Proxy failed: 18.132.36.51:3128 | Error: SSL certificate problem: unable to get local issuer certificate
+
+🔍 Trying proxy: 52.194.186.70:1080
+❌ Proxy failed: 52.194.186.70:1080 | Error: SSL certificate problem: unable to get local issuer certificate
+
+🔍 Trying proxy: 159.203.61.169:3128
+❌ Proxy failed: 159.203.61.169:3128 | Error: Proxy CONNECT aborted due to timeout
+
+🔍 Trying proxy: 5.161.103.41:88
+❌ Proxy failed: 5.161.103.41:88 | Error: Proxy CONNECT aborted due to timeout
+
+🔍 Trying proxy: 161.35.70.249:8080
+❌ Proxy failed: 161.35.70.249:8080 | Error: SSL connection timeout
+
+🔍 Trying proxy: 198.199.86.11:8080
+❌ Proxy failed: 198.199.86.11:8080 | Error: SSL connection timeout
+
+🔍 Trying proxy: 54.38.181.125:3128
+❌ Proxy failed: 54.38.181.125:3128 | Error: Failed to connect to 54.38.181.125 port 3128 after 5012 ms: Timeout was reached
+
+🔍 Trying proxy: 34.81.72.31:80
+❌ Proxy failed: 34.81.72.31:80 | Error: CONNECT tunnel failed, response 500
+
+🔍 Trying proxy: 172.188.122.92:80
+✅ Proxy IP Response: 172.188.122.92
+📄 Fiverr Response Code: 403
+❌ Fiverr rejected or invalid response
+
+🔍 Trying proxy: 133.18.234.13:80
+❌ Proxy failed: 133.18.234.13:80 | Error: CONNECT tunnel failed, response 400
+
+🔍 Trying proxy: 154.65.39.8:80
+❌ Proxy failed: 154.65.39.8:80 | Error: Proxy CONNECT aborted due to timeout
+
+🔍 Trying proxy: 94.23.9.170:80
+❌ Proxy failed: 94.23.9.170:80 | Error: Proxy CONNECT aborted due to timeout
+
+🔍 Trying proxy: 91.107.154.214:80
+❌ Proxy failed: 91.107.154.214:80 | Error: CONNECT tunnel failed, response 400
+
+🔍 Trying proxy: 174.138.54.65:80
+❌ Proxy failed: 174.138.54.65:80 | Error: Failed to connect to 174.138.54.65 port 80 after 5014 ms: Timeout was reached
+
+🔍 Trying proxy: 65.21.52.41:8888
+❌ Proxy failed: 65.21.52.41:8888 | Error: CONNECT tunnel failed, response 400
+
+🔍 Trying proxy: 46.29.162.222:80
+❌ Proxy failed: 46.29.162.222:80 | Error: Proxy CONNECT aborted due to timeout
+
+🔍 Trying proxy: 95.216.148.196:80
+❌ Proxy failed: 95.216.148.196:80 | Error: CONNECT tunnel failed, response 400
+
+🔍 Trying proxy: 190.103.177.131:80
+❌ Proxy failed: 190.103.177.131:80 | Error: CONNECT tunnel failed, response 400
+
+🔍 Trying proxy: 81.169.213.169:8888
+❌ Proxy failed: 81.169.213.169:8888 | Error: CONNECT tunnel failed, response 400
+
+🔍 Trying proxy: 194.4.57.199:3128
+❌ Proxy failed: 194.4.57.199:3128 | Error: Proxy CONNECT aborted
+
+🔍 Trying proxy: 89.58.57.45:80
+❌ Proxy failed: 89.58.57.45:80 | Error: CONNECT tunnel failed, response 400
+
+🔍 Trying proxy: 45.12.150.82:8080
+✅ Proxy IP Response: 45.12.150.82
+📄 Fiverr Response Code: 403
+❌ Fiverr rejected or invalid response
+
+🔍 Trying proxy: 54.245.27.232:999
+❌ Proxy failed: 54.245.27.232:999 | Error: SSL certificate problem: unable to get local issuer certificate
+
+🔍 Trying proxy: 82.102.10.253:80
+❌ Proxy failed: 82.102.10.253:80 | Error: CONNECT tunnel failed, response 400
+
+🔍 Trying proxy: 52.11.48.124:3128
+❌ Proxy failed: 52.11.48.124:3128 | Error: SSL connection timeout
+
+🔍 Trying proxy: 18.175.118.106:999
+❌ Proxy failed: 18.175.118.106:999 | Error: SSL certificate problem: unable to get local issuer certificate
+
+🔍 Trying proxy: 47.88.59.79:82
+❌ Proxy failed: 47.88.59.79:82 | Error: Proxy CONNECT aborted
+
+🔍 Trying proxy: 51.254.78.223:80
+❌ Proxy failed: 51.254.78.223:80 | Error: CONNECT tunnel failed, response 400
+
+🔍 Trying proxy: 162.223.90.150:80
+❌ Proxy failed: 162.223.90.150:80 | Error: CONNECT tunnel failed, response 404
+
+🔍 Trying proxy: 185.88.177.197:8080
+❌ Proxy failed: 185.88.177.197:8080 | Error: Proxy CONNECT aborted
+
+🔍 Trying proxy: 198.74.51.79:8888
+❌ Proxy failed: 198.74.51.79:8888 | Error: CONNECT tunnel failed, response 400
+
+🔍 Trying proxy: 13.80.134.180:80
+❌ Proxy failed: 13.80.134.180:80 | Error: Failed to connect to 13.80.134.180 port 80 after 5008 ms: Timeout was reached
+
+🔍 Trying proxy: 84.39.112.144:3128
+❌ Proxy failed: 84.39.112.144:3128 | Error: Proxy CONNECT aborted
+
+🔍 Trying proxy: 35.86.81.136:3128
+❌ Proxy failed: 35.86.81.136:3128 | Error: SSL certificate problem: unable to get local issuer certificate
+
+🔍 Trying proxy: 103.75.119.185:80
+❌ Proxy failed: 103.75.119.185:80 | Error: Proxy CONNECT aborted due to timeout
+
+🔍 Trying proxy: 192.73.244.36:80
+❌ Proxy failed: 192.73.244.36:80 | Error: Failed to connect to 192.73.244.36 port 80 after 5006 ms: Timeout was reached
+
+🔍 Trying proxy: 200.174.198.86:8888
+✅ Proxy IP Response: 200.174.198.41
+📄 Fiverr Response Code: 0
+❌ Fiverr rejected or invalid response
+
+🔍 Trying proxy: 140.238.242.189:8100
+✅ Proxy IP Response: 140.238.242.189
+📄 Fiverr Response Code: 403
+❌ Fiverr rejected or invalid response
+
+🔍 Trying proxy: 8.219.97.248:80
+✅ Proxy IP Response: 8.219.64.236
+📄 Fiverr Response Code: 0
+❌ Fiverr rejected or invalid response
+
+🔍 Trying proxy: 4.175.200.138:8080
+❌ Proxy failed: 4.175.200.138:8080 | Error: CONNECT tunnel failed, response 400
+
+🔍 Trying proxy: 46.47.197.210:3128
+❌ Proxy failed: 46.47.197.210:3128 | Error: CONNECT tunnel failed, response 403
+
+🔍 Trying proxy: 57.129.81.201:8080
+❌ Proxy failed: 57.129.81.201:8080 | Error: Recv failure: Connection was reset
+
+🔍 Trying proxy: 32.223.6.94:80
+❌ Proxy failed: 32.223.6.94:80 | Error: Failed to connect to 32.223.6.94 port 80 after 5011 ms: Timeout was reached
+
+🔍 Trying proxy: 219.93.101.60:80
+❌ Proxy failed: 219.93.101.60:80 | Error: Failed to connect to 219.93.101.60 port 80 after 5004 ms: Timeout was reached
+
+🔍 Trying proxy: 159.65.245.255:80
+❌ Proxy failed: 159.65.245.255:80 | Error: CONNECT tunnel failed, response 403
+
+🔍 Trying proxy: 190.58.248.86:80
+❌ Proxy failed: 190.58.248.86:80 | Error: Failed to connect to 190.58.248.86 port 80 after 5014 ms: Timeout was reached
+
+🔍 Trying proxy: 50.122.86.118:80
+❌ Proxy failed: 50.122.86.118:80 | Error: Failed to connect to 50.122.86.118 port 80 after 5006 ms: Timeout was reached
+
+🔍 Trying proxy: 66.191.31.158:80
+❌ Proxy failed: 66.191.31.158:80 | Error: Failed to connect to 66.191.31.158 port 80 after 5010 ms: Timeout was reached
+
+🔍 Trying proxy: 138.68.60.8:80
+✅ Proxy IP Response: 138.68.60.8
+📄 Fiverr Response Code: 0
+❌ Fiverr rejected or invalid response
+
+🔍 Trying proxy: 219.93.101.63:80
+❌ Proxy failed: 219.93.101.63:80 | Error: Proxy CONNECT aborted
+
+🔍 Trying proxy: 23.247.136.254:80
+❌ Proxy failed: 23.247.136.254:80 | Error: CONNECT tunnel failed, response 400
+
+🔍 Trying proxy: 45.140.143.77:18080
+✅ Proxy IP Response: 45.140.143.77
+📄 Fiverr Response Code: 403
+❌ Fiverr rejected or invalid response
+
+🔍 Trying proxy: 200.250.131.218:80
+❌ Proxy failed: 200.250.131.218:80 | Error: Proxy CONNECT aborted due to timeout
+
+🔍 Trying proxy: 3.10.207.94:4222
+❌ Proxy failed: 3.10.207.94:4222 | Error: SSL certificate problem: unable to get local issuer certificate
+
+🔍 Trying proxy: 195.114.209.50:80
+❌ Proxy failed: 195.114.209.50:80 | Error: CONNECT tunnel failed, response 500
+
+🔍 Trying proxy: 34.221.119.219:999
+❌ Proxy failed: 34.221.119.219:999 | Error: SSL certificate problem: unable to get local issuer certificate
+
+🔍 Trying proxy: 213.143.113.82:80
+❌ Proxy failed: 213.143.113.82:80 | Error: Failed to connect to 213.143.113.82 port 80 after 5015 ms: Timeout was reached
+
+🔍 Trying proxy: 68.183.143.134:80
+❌ Proxy failed: 68.183.143.134:80 | Error: CONNECT tunnel failed, response 500
+
+🔍 Trying proxy: 87.248.129.32:80
+❌ Proxy failed: 87.248.129.32:80 | Error: CONNECT tunnel failed, response 400
+
+🔍 Trying proxy: 47.56.110.204:8989
+❌ Proxy failed: 47.56.110.204:8989 | Error: CONNECT tunnel failed, response 400
+
+🔍 Trying proxy: 129.226.155.235:8080
+❌ Proxy failed: 129.226.155.235:8080 | Error: Failed to connect to 129.226.155.235 port 8080 after 5012 ms: Timeout was reached
+
+🔍 Trying proxy: 88.135.72.7:80
+❌ Proxy failed: 88.135.72.7:80 | Error: CONNECT tunnel failed, response 400
+
+🔍 Trying proxy: 37.32.12.199:80
+❌ Proxy failed: 37.32.12.199:80 | Error: CONNECT tunnel failed, response 400
+
+🔍 Trying proxy: 91.103.120.55:80
+❌ Proxy failed: 91.103.120.55:80 | Error: CONNECT tunnel failed, response 400
+
+🔍 Trying proxy: 138.199.233.152:80
+❌ Proxy failed: 138.199.233.152:80 | Error: CONNECT tunnel failed, response 400
+
+🔍 Trying proxy: 159.69.57.20:8880
+✅ Proxy IP Response: 134.19.179.203
+📄 Fiverr Response Code: 200
+🎉 SUCCESS! Proxy 159.69.57.20:8880 worked!
+

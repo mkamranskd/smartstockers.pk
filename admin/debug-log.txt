@@ -1,0 +1,43 @@
+Input:
+Array
+(
+    [api_key] => 487F7B22F68312D2C1BBC93B1AEA445B1742923857
+    [api_password] => 123456
+    [booked_packet_weight] => 4500
+    [booked_packet_no_piece] => 2
+    [booked_packet_collect_amount] => 4500
+    [booked_packet_order_id] => 1186
+    [origin_city] => self
+    [destination_city] => Mandi Bahauddin
+    [shipment_name_eng] => self
+    [shipment_address] => self
+    [shipment_phone] => self
+    [consignment_name_eng] => Junaid Akhtar
+    [consignment_email] => 
+    [consignment_phone] => +923063436637
+    [consignment_address] => Rubina Hospital Kuthyala Sekhan , Mandi Bahauddin , PK
+    [special_instructions] => 1 pcs Skin Repair Deal: Skin Repair Cream & Rose Water 1 pcs Hand & Feet Whitening Cream
+    [shipment_type] => overnight
+)
+Input:
+Array
+(
+    [api_key] => 487F7B22F68312D2C1BBC93B1AEA445B1742923857
+    [api_password] => 123456
+    [booked_packet_weight] => 2398
+    [booked_packet_no_piece] => 2
+    [booked_packet_collect_amount] => 2398
+    [booked_packet_order_id] => 1201
+    [origin_city] => self
+    [destination_city] => Bahawalpur
+    [shipment_name_eng] => self
+    [shipment_address] => self
+    [shipment_phone] => self
+    [consignment_name_eng] => Testing Last Kamran
+    [consignment_email] => 
+    [consignment_phone] => +923063436637
+    [consignment_address] => Street #1, House #2 , Mehr Colony, Sakrand, Bahawalpur, PK
+    [special_instructions] => 1 pcs Feet Whitening Cream for All Skins 1 pcs Hands Whitening Cream for All Skins
+    [shipment_type] => overnight
+)
+Input:

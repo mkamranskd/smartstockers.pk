@@ -1,0 +1,1889 @@
+Array
+(
+    [client_id] => A
+    [product_id] => A00001
+    [product_store_id] => 1575
+    [product_name] => Feet Whitening Cream for All Skins
+    [price] => 1199
+)
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00001
+    [product_store_id] => 1575
+    [product_name] => Feet Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 1
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00001
+    [product_store_id] => 1575
+    [product_name] => Feet Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 0.2
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00002
+    [product_store_id] => 1166
+    [product_name] => Face Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 5
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00003
+    [product_store_id] => 1400
+    [product_name] => Hands Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00001
+    [product_store_id] => 1575
+    [product_name] => Feet Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 1
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00002
+    [product_store_id] => 1400
+    [product_name] => Hands Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 2
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00003
+    [product_store_id] => 1166
+    [product_name] => Face Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 3
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00001
+    [product_store_id] => 1575
+    [product_name] => Feet Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 1
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00002
+    [product_store_id] => 1400
+    [product_name] => Hands Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 2
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00003
+    [product_store_id] => 1166
+    [product_name] => Face Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 3
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00001
+    [product_store_id] => 1575
+    [product_name] => Feet Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 1
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00002
+    [product_store_id] => 1166
+    [product_name] => Face Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 2
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00003
+    [product_store_id] => 1400
+    [product_name] => Hands Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 2
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00001
+    [product_store_id] => 1575
+    [product_name] => Feet Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 1
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00002
+    [product_store_id] => 1400
+    [product_name] => Hands Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 2
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00003
+    [product_store_id] => 1166
+    [product_name] => Face Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 3
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00003
+    [product_store_id] => 1166
+    [product_name] => Face Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 3
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00001
+    [product_store_id] => 1575
+    [product_name] => Feet Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00002
+    [product_store_id] => 1400
+    [product_name] => Hands Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 1
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00003
+    [product_store_id] => 1166
+    [product_name] => Face Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 2
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00001
+    [product_store_id] => 2483
+    [product_name] => UltraTech Gaming Laptop X15 - Black
+    [price] => 2100
+    [weight] => 5
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00002
+    [product_store_id] => 2481
+    [product_name] => UltraTech Gaming Laptop X15 - Green
+    [price] => 2100
+    [weight] => 2
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00003
+    [product_store_id] => 2474
+    [product_name] => UltraTech Gaming Laptop X15
+    [price] => 2100
+    [weight] => 3
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00004
+    [product_store_id] => 1575
+    [product_name] => Feet Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 2
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00001
+    [product_store_id] => 2474
+    [product_name] => UltraTech Gaming Laptop X15
+    [price] => 110000
+    [weight] => 1
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00002
+    [product_store_id] => 1575
+    [product_name] => Feet Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 1
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00003
+    [product_store_id] => 1400
+    [product_name] => Hands Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 1
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00004
+    [product_store_id] => 1166
+    [product_name] => Face Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 1
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00005
+    [product_store_id] => 2483
+    [product_name] => UltraTech Gaming Laptop X15 - Black
+    [price] => 110000
+    [weight] => 1
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00006
+    [product_store_id] => 2481
+    [product_name] => UltraTech Gaming Laptop X15 - Green
+    [price] => 110000
+    [weight] => 1
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00007
+    [product_store_id] => 2480
+    [product_name] => UltraTech Gaming Laptop X15 - Blue
+    [price] => 110000
+    [weight] => 1
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00008
+    [product_store_id] => 2479
+    [product_name] => UltraTech Gaming Laptop X15 - Red
+    [price] => 110000
+    [weight] => 1
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00001
+    [product_store_id] => 2474
+    [product_name] => UltraTech Gaming Laptop X15
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00002
+    [product_store_id] => 1575
+    [product_name] => Feet Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00003
+    [product_store_id] => 1400
+    [product_name] => Hands Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00004
+    [product_store_id] => 1166
+    [product_name] => Face Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00005
+    [product_store_id] => 2483
+    [product_name] => UltraTech Gaming Laptop X15 - Black
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00006
+    [product_store_id] => 2481
+    [product_name] => UltraTech Gaming Laptop X15 - Green
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00007
+    [product_store_id] => 2480
+    [product_name] => UltraTech Gaming Laptop X15 - Blue
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00008
+    [product_store_id] => 2479
+    [product_name] => UltraTech Gaming Laptop X15 - Red
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00009
+    [product_store_id] => 2492
+    [product_name] => Quantum Titan X Lite - Extreme
+    [price] => 2999999.99
+    [weight] => 6
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00010
+    [product_store_id] => 2491
+    [product_name] => Quantum Titan X Lite - Ultra
+    [price] => 2999999.99
+    [weight] => 4
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00011
+    [product_store_id] => 2490
+    [product_name] => Quantum Titan X Lite - Lite
+    [price] => 2999999.99
+    [weight] => 2
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00012
+    [product_store_id] => 2488
+    [product_name] => Quantum Titan X Lite
+    [price] => 2999999.99
+    [weight] => 1
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00001
+    [product_store_id] => 1166
+    [product_name] => Face Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 2
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00002
+    [product_store_id] => 1400
+    [product_name] => Hands Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 4
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00003
+    [product_store_id] => 1575
+    [product_name] => Feet Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 6
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00001
+    [product_store_id] => 1166
+    [product_name] => Face Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 2
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00001
+    [product_store_id] => 1166
+    [product_name] => Face Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00002
+    [product_store_id] => 1400
+    [product_name] => Hands Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 2
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00003
+    [product_store_id] => 1575
+    [product_name] => Feet Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00001
+    [product_store_id] => 1166
+    [product_name] => Face Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 2
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00002
+    [product_store_id] => 1400
+    [product_name] => Hands Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 4
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00003
+    [product_store_id] => 1575
+    [product_name] => Feet Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 6
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00001
+    [product_store_id] => 1166
+    [product_name] => Face Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 1
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00002
+    [product_store_id] => 1400
+    [product_name] => Hands Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 2
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00003
+    [product_store_id] => 1575
+    [product_name] => Feet Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 3
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00004
+    [product_store_id] => 2474
+    [product_name] => UltraTech Gaming Laptop X15
+    [price] => 110000
+    [weight] => 4
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00005
+    [product_store_id] => 2479
+    [product_name] => UltraTech Gaming Laptop X15 - Red
+    [price] => 110000
+    [weight] => 5
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00006
+    [product_store_id] => 2480
+    [product_name] => UltraTech Gaming Laptop X15 - Blue
+    [price] => 110000
+    [weight] => 6
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00007
+    [product_store_id] => 2481
+    [product_name] => UltraTech Gaming Laptop X15 - Green
+    [price] => 110000
+    [weight] => 7
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00008
+    [product_store_id] => 2483
+    [product_name] => UltraTech Gaming Laptop X15 - Black
+    [price] => 110000
+    [weight] => 8
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00009
+    [product_store_id] => 2488
+    [product_name] => Quantum Titan X Lite
+    [price] => 2999999.99
+    [weight] => 9
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00010
+    [product_store_id] => 2490
+    [product_name] => Quantum Titan X Lite - Lite
+    [price] => 2999999.99
+    [weight] => 10
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00011
+    [product_store_id] => 2491
+    [product_name] => Quantum Titan X Lite - Ultra
+    [price] => 2999999.99
+    [weight] => 11
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00012
+    [product_store_id] => 2492
+    [product_name] => Quantum Titan X Lite - Extreme
+    [price] => 2999999.99
+    [weight] => 12
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00001
+    [product_store_id] => 1166
+    [product_name] => Face Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 1
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00002
+    [product_store_id] => 1400
+    [product_name] => Hands Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 2
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00003
+    [product_store_id] => 1575
+    [product_name] => Feet Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 2
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00004
+    [product_store_id] => 2479
+    [product_name] => UltraTech Gaming Laptop X15 - Red
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00005
+    [product_store_id] => 2480
+    [product_name] => UltraTech Gaming Laptop X15 - Blue
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00006
+    [product_store_id] => 2481
+    [product_name] => UltraTech Gaming Laptop X15 - Green
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00007
+    [product_store_id] => 2483
+    [product_name] => UltraTech Gaming Laptop X15 - Black
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00008
+    [product_store_id] => 2488
+    [product_name] => Quantum Titan X Lite
+    [price] => 2999999.99
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00009
+    [product_store_id] => 2490
+    [product_name] => Quantum Titan X Lite - Lite
+    [price] => 2999999.99
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00010
+    [product_store_id] => 2491
+    [product_name] => Quantum Titan X Lite - Ultra
+    [price] => 2999999.99
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00011
+    [product_store_id] => 2492
+    [product_name] => Quantum Titan X Lite - Extreme
+    [price] => 2999999.99
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00001
+    [product_store_id] => 1308
+    [product_name] => Extra Whitening Cream
+    [price] => 2200
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00002
+    [product_store_id] => 1310
+    [product_name] => Whitening Deal: Extra Whitening Facewash + Extra Whitening Cream
+    [price] => 3700
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00003
+    [product_store_id] => 1312
+    [product_name] => Whitening Vitamin C Facewash
+    [price] => 1500
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00004
+    [product_store_id] => 1314
+    [product_name] => Hair Growth Oil
+    [price] => 1500
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00005
+    [product_store_id] => 1316
+    [product_name] => Body Whitening Cream
+    [price] => 2500
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00006
+    [product_store_id] => 1318
+    [product_name] => Hand & Feet Whitening Cream
+    [price] => 2300
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00007
+    [product_store_id] => 1321
+    [product_name] => Skin Repair Deal: Skin Repair Cream & Rose Water
+    [price] => 2700
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00008
+    [product_store_id] => 1323
+    [product_name] => Moisturizer Cream
+    [price] => 1200
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00009
+    [product_store_id] => 1384
+    [product_name] => Zafrani Skin Polish
+    [price] => 1200
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00001
+    [product_store_id] => 1166
+    [product_name] => Face Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00002
+    [product_store_id] => 1400
+    [product_name] => Hands Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00003
+    [product_store_id] => 1575
+    [product_name] => Feet Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00004
+    [product_store_id] => 2474
+    [product_name] => UltraTech Gaming Laptop X15
+    [price] => 
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00004
+    [product_store_id] => 2479
+    [product_name] => UltraTech Gaming Laptop X15 - Red
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00005
+    [product_store_id] => 2480
+    [product_name] => UltraTech Gaming Laptop X15 - Blue
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00006
+    [product_store_id] => 2481
+    [product_name] => UltraTech Gaming Laptop X15 - Green
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00007
+    [product_store_id] => 2483
+    [product_name] => UltraTech Gaming Laptop X15 - Black
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00008
+    [product_store_id] => 2488
+    [product_name] => Quantum Titan X Lite
+    [price] => 
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00008
+    [product_store_id] => 2488
+    [product_name] => Quantum Titan X Lite
+    [price] => 
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00008
+    [product_store_id] => 2474
+    [product_name] => UltraTech Gaming Laptop X15
+    [price] => 
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00008
+    [product_store_id] => 2474
+    [product_name] => UltraTech Gaming Laptop X15
+    [price] => 
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00008
+    [product_store_id] => 2490
+    [product_name] => Quantum Titan X Lite - Lite
+    [price] => 2999999.99
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00009
+    [product_store_id] => 2491
+    [product_name] => Quantum Titan X Lite - Ultra
+    [price] => 2999999.99
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00010
+    [product_store_id] => 2492
+    [product_name] => Quantum Titan X Lite - Extreme
+    [price] => 2999999.99
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00010
+    [product_store_id] => 1427
+    [product_name] => Creamy Facewash
+    [price] => 1100
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00011
+    [product_store_id] => 2488
+    [product_name] => Quantum Titan X Lite
+    [price] => 29
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00012
+    [product_store_id] => 2474
+    [product_name] => UltraTech Gaming Laptop X15
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00004
+    [product_store_id] => 2492
+    [product_name] => Quantum Titan X Lite - Extreme
+    [price] => 299
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00005
+    [product_store_id] => 2491
+    [product_name] => Quantum Titan X Lite - Ultra
+    [price] => 29
+    [weight] => 10
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00006
+    [product_store_id] => 2490
+    [product_name] => Quantum Titan X Lite - Lite
+    [price] => 2999
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00007
+    [product_store_id] => 2488
+    [product_name] => Quantum Titan X Lite
+    [price] => 29
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00008
+    [product_store_id] => 2483
+    [product_name] => UltraTech Gaming Laptop X15 - Black
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00009
+    [product_store_id] => 2481
+    [product_name] => UltraTech Gaming Laptop X15 - Green
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00010
+    [product_store_id] => 2480
+    [product_name] => UltraTech Gaming Laptop X15 - Blue
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00011
+    [product_store_id] => 2479
+    [product_name] => UltraTech Gaming Laptop X15 - Red
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00012
+    [product_store_id] => 2474
+    [product_name] => UltraTech Gaming Laptop X15
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00001
+    [product_store_id] => 1310
+    [product_name] => Whitening Deal: Extra Whitening Facewash + Extra Whitening Cream
+    [price] => 2600
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00002
+    [product_store_id] => 1312
+    [product_name] => Whitening Vitamin C Facewash
+    [price] => 800
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00003
+    [product_store_id] => 1314
+    [product_name] => Hair Growth Oil
+    [price] => 1500
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00004
+    [product_store_id] => 1316
+    [product_name] => Body Whitening Cream
+    [price] => 2500
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00005
+    [product_store_id] => 1318
+    [product_name] => Hand & Feet Whitening Cream
+    [price] => 1800
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00006
+    [product_store_id] => 1321
+    [product_name] => Skin Repair Deal: Skin Repair Cream & Rose Water
+    [price] => 2300
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00007
+    [product_store_id] => 1323
+    [product_name] => Moisturizer Cream
+    [price] => 1200
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00008
+    [product_store_id] => 1384
+    [product_name] => Zafrani Skin Polish
+    [price] => 750
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00009
+    [product_store_id] => 1427
+    [product_name] => Creamy Facewash
+    [price] => 650
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => A
+    [product_id] => A00010
+    [product_store_id] => 1432
+    [product_name] => SUN BLOCK
+    [price] => 550
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00001
+    [product_store_id] => 1166
+    [product_name] => Face Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00002
+    [product_store_id] => 1400
+    [product_name] => Hands Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00003
+    [product_store_id] => 1575
+    [product_name] => Feet Whitening Cream for All Skins
+    [price] => 1199
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00004
+    [product_store_id] => 2474
+    [product_name] => UltraTech Gaming Laptop X15
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00005
+    [product_store_id] => 2479
+    [product_name] => UltraTech Gaming Laptop X15 - Red
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00006
+    [product_store_id] => 2480
+    [product_name] => UltraTech Gaming Laptop X15 - Blue
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00007
+    [product_store_id] => 2481
+    [product_name] => UltraTech Gaming Laptop X15 - Green
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00008
+    [product_store_id] => 2483
+    [product_name] => UltraTech Gaming Laptop X15 - Black
+    [price] => 110000
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00009
+    [product_store_id] => 2488
+    [product_name] => Quantum Titan X Lite
+    [price] => 29
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00010
+    [product_store_id] => 2490
+    [product_name] => Quantum Titan X Lite - Lite
+    [price] => 2999
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00011
+    [product_store_id] => 2491
+    [product_name] => Quantum Titan X Lite - Ultra
+    [price] => 29
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => B
+    [product_id] => B00012
+    [product_store_id] => 2492
+    [product_name] => Quantum Titan X Lite - Extreme
+    [price] => 299
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => D
+    [product_id] => D00001
+    [product_store_id] => 14691849797995
+    [product_name] => Laptop Sleeve
+    [price] => 300.00
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => D
+    [product_id] => D00002
+    [product_store_id] => 14691981590891
+    [product_name] => face cream
+    [price] => 250.00
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => D
+    [product_id] => D00003
+    [product_store_id] => 14691990208875
+    [product_name] => sun block
+    [price] => 100.00
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => D
+    [product_id] => D00004
+    [product_store_id] => 51984614326635
+    [product_name] => sun block - UVA/UVB protection
+    [price] => 150.00
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => D
+    [product_id] => D00005
+    [product_store_id] => 51984614359403
+    [product_name] => sun block - Waterproof
+    [price] => 200.00
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => D
+    [product_id] => D00001
+    [product_store_id] => 14691849797995
+    [product_name] => Laptop Sleeve
+    [price] => 300.00
+    [weight] => 5
+)
+
+Received Data:
+Array
+(
+    [client_id] => D
+    [product_id] => D00002
+    [product_store_id] => 14691981590891
+    [product_name] => face cream
+    [price] => 250.00
+    [weight] => 10
+)
+
+Received Data:
+Array
+(
+    [client_id] => D
+    [product_id] => D00003
+    [product_store_id] => 14691990208875
+    [product_name] => sun block
+    [price] => 100.00
+    [weight] => 15
+)
+
+Received Data:
+Array
+(
+    [client_id] => D
+    [product_id] => D00004
+    [product_store_id] => 51984614326635
+    [product_name] => sun block - UVA/UVB protection
+    [price] => 150.00
+    [weight] => 20
+)
+
+Received Data:
+Array
+(
+    [client_id] => D
+    [product_id] => D00005
+    [product_store_id] => 51984614359403
+    [product_name] => sun block - Waterproof
+    [price] => 200.00
+    [weight] => 25
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00001
+    [product_store_id] => 1312
+    [product_name] => Whitening Vitamin C Facewash
+    [price] => 800
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00002
+    [product_store_id] => 1314
+    [product_name] => Hair Growth Oil
+    [price] => 1500
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00003
+    [product_store_id] => 1316
+    [product_name] => Body Whitening Cream
+    [price] => 2500
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00004
+    [product_store_id] => 1318
+    [product_name] => Hand & Feet Whitening Cream
+    [price] => 1800
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00005
+    [product_store_id] => 1321
+    [product_name] => Skin Repair Deal: Skin Repair Cream & Rose Water
+    [price] => 2300
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00006
+    [product_store_id] => 1323
+    [product_name] => Moisturizer Cream
+    [price] => 1200
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00007
+    [product_store_id] => 1384
+    [product_name] => Zafrani Skin Polish
+    [price] => 750
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00008
+    [product_store_id] => 1427
+    [product_name] => Creamy Facewash
+    [price] => 650
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00009
+    [product_store_id] => 1432
+    [product_name] => SUN BLOCK
+    [price] => 550
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00010
+    [product_store_id] => 1465
+    [product_name] => 
+    [price] => 
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00015
+    [product_store_id] => 1487
+    [product_name] => Extra Whitening Cream
+    [price] => 1800
+    [weight] => 0.5
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00016
+    [product_store_id] => 1479
+    [product_name] => Extra Whitening Cream
+    [price] => 
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00016
+    [product_store_id] => 1479
+    [product_name] => Extra Whitening Cream
+    [price] => 
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00016
+    [product_store_id] => 1310
+    [product_name] => Whitening Deal: Extra Whitening Facewash + Extra Whitening Cream
+    [price] => 2600
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00001
+    [product_store_id] => 1310
+    [product_name] => Whitening Deal: Extra Whitening Facewash + Extra Whitening Cream
+    [price] => 2600
+    [weight] => 0.3
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00002
+    [product_store_id] => 1312
+    [product_name] => Whitening Vitamin C Facewash
+    [price] => 800
+    [weight] => 0.15
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00003
+    [product_store_id] => 1314
+    [product_name] => Hair Growth Oil
+    [price] => 1500
+    [weight] => 0.5
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00004
+    [product_store_id] => 1316
+    [product_name] => Body Whitening Cream
+    [price] => 2500
+    [weight] => 1
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00005
+    [product_store_id] => 1318
+    [product_name] => Hand & Feet Whitening Cream
+    [price] => 1800
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00006
+    [product_store_id] => 1321
+    [product_name] => Skin Repair Deal: Skin Repair Cream & Rose Water
+    [price] => 2300
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00007
+    [product_store_id] => 1323
+    [product_name] => Moisturizer Cream
+    [price] => 1200
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00008
+    [product_store_id] => 1384
+    [product_name] => Zafrani Skin Polish
+    [price] => 750
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00009
+    [product_store_id] => 1487
+    [product_name] => Extra Whitening Cream
+    [price] => 1800
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00010
+    [product_store_id] => 1479
+    [product_name] => Extra Whitening Cream
+    [price] => 
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00010
+    [product_store_id] => 1432
+    [product_name] => SUN BLOCK
+    [price] => 550
+    [weight] => 0.00
+)
+
+Received Data:
+Array
+(
+    [client_id] => G
+    [product_id] => G00011
+    [product_store_id] => 1427
+    [product_name] => Creamy Facewash
+    [price] => 650
+    [weight] => 0.00
+)
+
